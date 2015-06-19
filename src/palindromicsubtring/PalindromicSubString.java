@@ -1,4 +1,4 @@
-package crl.palindromicsubtring;
+package palindromicsubtring;
 
 
 public class PalindromicSubString {
