@@ -1,6 +1,5 @@
 package longestcommonprefix;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
 
 public class LongestCommonPrefix {
 	
